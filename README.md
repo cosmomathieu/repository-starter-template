@@ -2,7 +2,7 @@
 
 This repository serves as a method of learning how setup a default git repository for public sharing. It includes a recomended folder structure, github-pages docs, and examples software version tagging via Git tags.
 
-Landing page: http://cosmomathieu.github.io/repository-stater-template.
+Landing page: http://cosmomathieu.github.io/repository-starter-template.
 
 ## Getting Started
 

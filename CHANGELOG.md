@@ -12,4 +12,4 @@ All notable changes to this project will be documented in this file.
 ### Fixed 
 - Fixed issue with something that caused someting else
 
-[1.0.0]: https://github.com/cosmomathieu/repository-stater-template/tree/v1.0.0
+[1.0.0]: https://github.com/cosmomathieu/repository-starter-template/tree/v1.0.0
