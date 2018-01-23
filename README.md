@@ -87,4 +87,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+* Thank you to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for this README starter template
 
